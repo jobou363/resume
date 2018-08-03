@@ -1,6 +1,6 @@
 # Site settings
-title: "Jonatan Bouillon Resume Template"
-description: "A resume template for Jonatan Bouillon and GitHub Pages sites."
+title: "Jonatan Bouillon Resume"
+description: "A resume for Jonatan Bouillon and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -12,10 +12,10 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Jonatan Bouillon"
 resume_title:                   "Senior .Net Programer"
-resume_contact_email:           "jonatanbouillon@github.com"
-resume_contact_telephone:       "1-(877)-448-4820"
+resume_contact_email:           "jonatanbouillon@jonatanbouillon.com"
+resume_contact_telephone:       "1-(514)-386-5971"
 resume_contact_address:         "Montreal, Canada"
-resume_header_contact_info: "SMontreal, Canada | 1-(877)-448-4820 | jonatanbouillon@github.com"
+resume_header_contact_info: "SMontreal, Canada | 1-(514)-386-5971 | jonatanbouillon@github.com"
 resume_header_intro: "<p>Social Dancer, 'nuff said.</p>"
 
 # use "yes" to display the email contact button,
@@ -33,18 +33,18 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/jobou363/resume-template"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/jonatan-bouillon-09027017/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  # resume_website_url:           "http://joelglovier.com"
 resume_print_social_links:      true
 
 # Design settings
