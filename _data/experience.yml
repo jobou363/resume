@@ -1,19 +1,24 @@
 # Jobs
 # Shoptocat
-- company: GitHub, Inc.
-  position: Shoptocat
-  duration: March, 2013 &mdash; Present
-  summary: Create awesome swag, ensure orders get delivered quickly, collect all the stickers.
+- company: JB Services Conseil (2018-Present)
+  position: Senior .Net Consultant
+  duration: Febuary, 2018 &mdash; Present
+  summary: 
 
 # Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+- company: Atman
+  position: .Net Developer
+  duration: September, 2015 &mdash; January, 2018
+  summary: Work on .net web api, mvc project. Developed a Stripea and Moneris payment solution.
 
 
 # Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  October 2016 &mdash; Present
-  summary: Provide amazing support to customers on the GitHub for Business platform
+- company: MediSolution
+  position: .Net Project Lead
+  duration: 2007 &mdash; Present
+  summary: Worked as Lead Programer .net web form project.
+
+- company: PCMS Conseil
+  position: Web Integrator
+  duration: 2006 &mdash; 2007
+  summary: Web site integration with continuous integration.
